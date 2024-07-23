@@ -64,7 +64,7 @@
     <string name="label_readonly_wallet_default">A minha carteira (Modo Leitura)</string>
     <string name="hint_signing_request">Por favor realize o scan do Pedido de Assinatura vindo da\'s 
 	carteira\'s apropriada\'s.</string>
-    <string name="hint_readonly_signing_request">Introduziu um pedido de assinatura, mas a carteira está configurada só para leitura. Por favor, restaure com a sua mnemónica.</string>
+    <string name="hint_readonly_signing_request">Introduziu um pedido de assinatura, mas a carteira está configurada só para leitura. Por favor, restaure com a sua mnemônica.</string>
     <string name="error_qr_code_content_unknown">O formato do código QR não foi reconhecido.</string>
     <string name="hint_auth_request">Parece que realizou o scan de um pedido de autenticação, mas isto serve para enviar fundos.
         Por favor, realize o scan do pedido de autenticação no menu inicial ou nos detalhes da Carteira.</string>
@@ -72,9 +72,9 @@
     <!-- add wallet -->
     <string name="menu_add_wallet">Adicionar carteira</string>
     <string name="label_create_wallet">Nova carteira</string>
-    <string name="desc_create_wallet">Criar carteira (chaves e endereço) vindo de uma frase mnemónica gerada automaticamente.</string>
+    <string name="desc_create_wallet">Criar carteira (chaves e endereço) vindo de uma frase mnemônica gerada automaticamente.</string>
     <string name="label_restore_wallet">Restaurar carteira</string>
-    <string name="desc_restore_wallet">Restaurar as chaves da carteira e endereço vindo de uma frase mnemónica.</string>
+    <string name="desc_restore_wallet">Restaurar as chaves da carteira e endereço vindo de uma frase mnemônica.</string>
     <string name="label_import_wallet">Importar carteira</string>
     <string name="desc_import_wallet">Utilizar uma carteira exportada para realizar a importação de uma carteira existente (chaves e endereço).</string>
     <string name="label_readonly_wallet">Carteira Modo Leitura</string>
@@ -88,25 +88,25 @@
     <string name="error_invalid_readonly_input">Não foi encontrado um endereço ERG ou chave pública válida</string>
 
     <!-- Create wallet -->
-    <string name="intro_create_wallet">Estas são as suas 15 palavras (frase mnemónica) da sua carteira Ergo. Estas palavras são também conhecidas como frase-semente 
+    <string name="intro_create_wallet">Estas são as suas 15 palavras (frase mnemônica) da sua carteira Ergo. Estas palavras são também conhecidas como frase-semente 
         ou chave-papel.
 		Com estas 15 palavras, é possível restaurar a sua carteira noutro dispositivo caso perca o acesso a este. \nÉ crucial 
     que escreva cuidadosamente todas as 15 palavras (com uma caneta e papel) e guarde-as num local seguro.</string>
-    <string name="intro_confirm_create_wallet">Para confirmar que a sua frase mnemónica está correta, introduza as duas palavras da frase agora:</string>
-    <string name="check_confirm_create_wallet">Eu compreendo que sou responsável por guardar a minha frase mnemónica e mantê-la num local seguro.
+    <string name="intro_confirm_create_wallet">Para confirmar que a sua frase mnemônica está correta, introduza as duas palavras da frase agora:</string>
+    <string name="check_confirm_create_wallet">Eu compreendo que sou responsável por guardar a minha frase mnemônica e mantê-la num local seguro.
     Esta é a única forma de restaurar a sua carteira, caso as chaves no dispositivo atual sejam perdidas ou inacessíveis.</string>
     <string name="label_word_confirm_create_wallet">Palavra %1$s</string>
     <string name="error_word_confirm_create_wallet">Palavra incorreta</string>
 
     <!-- Restore wallet -->
-    <string name="intro_restore_wallet">Introduza a sua chave mnemónica para recriar a carteira Ergo.</string>
+    <string name="intro_restore_wallet">Introduza a sua chave mnemônica para recriar a carteira Ergo.</string>
     <string name="label_restore_wallet_word_list">Problemas a ler a suas notas?
         <a href="https://github.com/ergoplatform/ergo/blob/master/ergo-wallet/src/main/resources/wordlist/english.txt">Verificque a lista de palavras</a>
             e compare.</string>
     <string name="button_restore">Restaurar carteira</string>
-    <string name="mnemonic_length_not_enough">Algumas palavras estão em falta na sua frase mnemónica. Adicione no mínimo %1$s.</string>
-    <string name="mnemonic_unknown_words">A sua frase mnemónica contém palavras inválidas. Verifique erros ortográficos.</string>
-    <string name="mnemonic_invalid">A validação da sua frase mnemónica falhou. Caso tenha a certeza que introduziu a chave correta, pode clicar novamente para avançar.</string>
+    <string name="mnemonic_length_not_enough">Algumas palavras estão em falta na sua frase mnemônica. Adicione no mínimo %1$s.</string>
+    <string name="mnemonic_unknown_words">A sua frase mnemônica contém palavras inválidas. Verifique erros ortográficos.</string>
+    <string name="mnemonic_invalid">A validação da sua frase mnemônica falhou. Caso tenha a certeza que introduziu a chave correta, pode clicar novamente para avançar.</string>
 
     <string name="hint_desktop_kya">Por favor, leia e compreenda o nosso <a href="https://github.com/ergoplatform/ergo-wallet-app/blob/develop/desktop/RUN.md#know-your-assumptions">pressopostos "KYA" em relação a guardar o seus segredos.</a>. Para uma melhor segurança, use uma <a href="https://github.com/ergoplatform/ergo-wallet-app/wiki/Cold-wallet">Carteira offline</a>.
     </string>
@@ -134,8 +134,8 @@
     <string name="label_wallet_name">Nome descritivo para a carteira</string>
     <string name="label_changes_saved">Alterações guardadas</string>
     <string name="label_confirm_delete">Tem a certeza que deseja eliminar a carteira deste dispositivo?\nEsta acção não poderá ser defeita.</string>
-    <string name="desc_display_mnemonic">Poderá visualizar a sua frase mnemónica (frase-semente, chave-papel) caso perca o seu backup ou para confirmar que realizou o backup corretamente.</string>
-    <string name="button_display_mnemonic">Visualizar frase mnemónica</string>
+    <string name="desc_display_mnemonic">Poderá visualizar a sua frase mnemônica (frase-semente, chave-papel) caso perca o seu backup ou para confirmar que realizou o backup corretamente.</string>
+    <string name="button_display_mnemonic">Visualizar frase mnemônica</string>
     <string name="desc_display_xpubkey">Poderá adicionar esta carteira em Modo Leitura para outras aplicações com a chave pública. Nenhuma informação será partilhada.</string>
     <string name="button_display_xpubkey">Visualizar chave pública</string>
 
@@ -221,7 +221,7 @@
     <string name="error_device_security_save_wallet">Não foi possível armazenar segredos encriptados no dispositivo: %1$s\n\nPor favor, verifique se configurou a
         a autenticação biométrica neste dispositivo.</string>
     <string name="error_device_security">Erro de segurança: %1$s\n\nPorderá ser sido causado por uma alteração nas definições de autenticação do dispositivo.
-        Se o erro persistir, restaure esta carteira com a mnemónica que anotou anteriormente.</string>
+        Se o erro persistir, restaure esta carteira com a mnemônica que anotou anteriormente.</string>
     <string name="error_device_security_cloud_hint">Não foi possível ler a informação para desencriptar os seus segredos. Tenha atenção
         que estas informações não são sincronizadas com a cópia de segurança na nuvem.</string>
     <string name="label_add_token">Token</string>
