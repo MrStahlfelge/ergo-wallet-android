@@ -9,4 +9,5 @@
     <locale android:name="tr"/>
     <locale android:name="zh"/>
     <locale android:name="in"/>
+    <locale android:name="jv"/>
 </locale-config>
