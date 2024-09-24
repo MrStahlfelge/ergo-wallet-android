@@ -111,6 +111,7 @@ task convertStrings {
         convertFile("tr")
         convertFile("ru")
         convertFile("in")
+        convertFile("jv")
     }
 }
 
